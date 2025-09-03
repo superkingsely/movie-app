@@ -1,6 +1,6 @@
 # 🎬 Movie App (HTML + CSS + JavaScript)
 
-**Live Site:** [movie-app-js-three.netlify.app](https://movie-app-js-three.vercel.app)
+**Live Site:** [movie-app-js-three.vercel.app](https://movie-app-js-three.vercel.app)
 
 
 This is a responsive and interactive movie listing web application built using pure **HTML**, **CSS**, and **JavaScript**. The app allows users to browse movies, search for titles, and view ratings in a clean, modern UI.
